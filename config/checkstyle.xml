@@ -66,7 +66,7 @@
   </module>
 
   <!-- https://source.android.com/source/code-style.html#use-spaces-for-indentation -->
-  <module name="FileTabCharacter"/>
+  <!--<module name="FileTabCharacter"/>-->
 
   <!-- Enable suppression comments -->
   <module name="SuppressionCommentFilter">
